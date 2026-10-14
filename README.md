@@ -41,54 +41,64 @@ I build modern web applications using React, Next.js, Node.js, and TypeScript. I
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Development tools" />
 </p>
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💎 Berelian Club</h3>
-      <p>A customer club platform built with a monorepo architecture, featuring separate client, admin, and server applications.</p>
+      <p>A full-stack customer club platform built with a monorepo architecture, featuring separate client, admin, and backend applications.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
       </p>
+      <p><strong>Highlights:</strong> Monorepo structure, role-based applications, REST APIs, and real-time communication.</p>
       <a href="https://github.com/AmirH-Hemati/monorepo-bashgah-moshtarian">
-        <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Berelian Club" />
+        <img src="https://img.shields.io/badge/Explore_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Berelian Club repository" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🛍️ TechnoShop</h3>
-      <p>An e-commerce project focused on building a modern web application with separate frontend and backend components.</p>
+      <p>A full-stack e-commerce project focused on building an online shopping experience with frontend and backend components.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
       </p>
-      <a href="https://github.com/AmirH-Hemati?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore TechnoShop repositories" />
+      <p><strong>Focus:</strong> Full-stack development, API integration, and e-commerce application development.</p>
+      <a href="https://github.com/AmirH-Hemati/technoShop">
+        <img src="https://img.shields.io/badge/Explore_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore TechnoShop repository" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>📊 Admin Panel with shadcn/ui</h3>
-      <p>A modern admin dashboard built with reusable UI components and tools for data fetching, table management, and form validation.</p>
+      <p>A modern admin dashboard built with reusable UI components, efficient data fetching, interactive tables, and form validation.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
       </p>
+      <p><strong>Highlights:</strong> Reusable components, server-state management, data tables, and schema-based form validation.</p>
       <a href="https://github.com/AmirH-Hemati/adminPanelWithShadCn">
-        <img src="https://img.shields.io/badge/View_Project-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Admin Panel" />
+        <img src="https://img.shields.io/badge/Explore_Repository-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore Admin Panel repository" />
       </a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <i>Building practical projects, strengthening my skills, and learning something new with every step. 🚀</i>
+</p>
 ## 📈 GitHub Analytics
 
 <p align="center">
