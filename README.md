@@ -96,9 +96,7 @@ I build modern web applications using React, Next.js, Node.js, and TypeScript. I
   </tr>
 </table>
 
-<p align="center">
-  <i>Building practical projects, strengthening my skills, and learning something new with every step. 🚀</i>
-</p>
+
 ## 📈 GitHub Analytics
 
 <p align="center">
